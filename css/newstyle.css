@@ -1,0 +1,65 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.title{
+  text-shadow: 5px 5px 5px lightslategray;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bolder;
+}
+h2{
+  float:right;
+  font-style: italic;
+}
+body{
+  /* text-align: center; */
+  background-image: url(../images/brandi-redd-aJTiW00qqtI-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.content{
+  margin-top: 100px;
+  border: 1px solid lightslategray;
+  /* box-sizing: border-box; */
+  clear: right;
+}
+.content img{
+  float: left;
+  padding: 10px;
+  height: 500px;
+  weight: 300px;
+}
+
+p{
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  font-weight: 1000;
+  color: gray;
+  text-indent: 10px;
+}
+.par{  
+  /* border: 1px solid burlywood; */
+  /* overflow: scroll; */
+  /* height: 100px; */
+  
+}
+#par3{
+  text-decoration: underline;
+}
+a{
+  float: right;
+  font-style: italic;
+}
+.pub-article{
+  text-align: center;
+  padding-top: 50px;
+}
+table{
+  empty-cells: hide;
+  border-collapse: collapse;
+  float: center;
+  margin: 0px auto;
+  font-weight: bold;
+}
