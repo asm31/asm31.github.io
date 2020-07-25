@@ -27,7 +27,7 @@ body{
   float: left;
   padding: 10px;
   height: 500px;
-  weight: 300px;
+  width: 300px;
 }
 
 p{
@@ -39,12 +39,11 @@ p{
   color: gray;
   text-indent: 10px;
 }
-.par{  
-  /* border: 1px solid burlywood; */
-  /* overflow: scroll; */
-  /* height: 100px; */
-  
-}
+/* .par{  
+  border: 1px solid burlywood;
+  overflow: scroll;
+  height: 100px;
+} */
 #par3{
   text-decoration: underline;
 }
